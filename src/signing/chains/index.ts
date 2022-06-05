@@ -10,3 +10,4 @@ export * from "./SolanaSigner";
 // export { default as AlgorandSigner } from "./AlgorandSigner";
 // export { default as HexInjectedSolanaSigner } from "./HexInjectedSolanaSigner";
 export { default as HexSolanaSigner } from "./HexSolanaSigner";
+export { default as CosmosSigner } from "./CosmosSigner";
